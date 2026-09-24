@@ -21,7 +21,7 @@ A simple contact book application built in Java with a graphical user interface 
 -IntellJ IDEA
 -Swing
 -File handling (BufferedReader / BufferedWriter)
-- HashMap for storing contacts
+-HashMap for storing contacts
 
 ## How to Use
 
